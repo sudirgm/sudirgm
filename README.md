@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=Sudir%20GM&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Code%2C%20and%20Systems&descSize=16&descAlignY=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=Sudir%20&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Code%2C%20and%20Systems&descSize=16&descAlignY=62&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-year+B.Tech+IT+%40+SRM+Institute;Exploring+AI+%7C+Automation+%7C+Software+Engineering;From+curiosity+to+code+%E2%80%94+one+project+at+a+time)](https://git.io/typing-svg)
 
