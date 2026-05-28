@@ -1,73 +1,156 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sudir%20GM&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Automation%20%7C%20B.Tech%20IT%20%40%20SRM&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=Sudir%20GM&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Code%2C%20and%20Systems&descSize=16&descAlignY=62&animation=fadeIn)
 
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/viswasudir%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viswasudir@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/sudirbaskar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudirbaskar)
-![Visitor Badge](https://komarev.com/ghpvc/?username=sudirgm&color=6366f1&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-year+B.Tech+IT+%40+SRM+Institute;Exploring+AI+%7C+Automation+%7C+Software+Engineering;From+curiosity+to+code+%E2%80%94+one+project+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-I design and build AI-powered systems — from voice assistants to multi-agent automation pipelines. Currently a B.Tech IT student at SRM (2025–2029), but my real classroom is whatever I'm shipping this week.
+## Overview
 
-My focus: taking an idea from zero to a working, structured system as fast as possible — and understanding every layer of it along the way.
+Computer science, to me, is less about writing code and more about **designing systems that think**.
 
----
+I'm a first-year B.Tech Information Technology student at **SRM Institute of Science and Technology, Chennai** — early in the journey, but deliberate about where it's heading. My current focus spans AI integration, automation architecture, and building software that solves real problems rather than demonstrating them.
 
-## What I Build
-
-**Friday — AI Voice Assistant** &nbsp;`Active`
-> Gemini-powered personal agent with ~30 modules spanning voice control, Gmail/Calendar integration, web search, vision, and habit tracking. Architected for extensibility — not a script, a system.
-
-**Hackathon Projects** &nbsp;`Ongoing`
-> Competed in university and online AI hackathons. Shipped functional prototypes under 48-hour constraints. Learned more from each deadline than any tutorial.
-
-**AI Workflow Experiments** &nbsp;`Continuous`
-> Exploring prompt chaining, multi-agent coordination, and tool-augmented LLMs. Everything gets documented, versioned, and iterated.
+Outside coursework, I spend time breaking down how production systems work, reverse-engineering AI workflows, and building projects that go beyond tutorials.
 
 ---
 
-## Stack & Focus Areas
+## Tech Stack
 
-```
-AI / LLMs          Gemini API · Prompt Engineering · Multi-agent Design
-Backend            Python · Java · Spring Boot · Maven
-Automation         Workflow Pipelines · Tool Integration · API Orchestration
-Currently Studying Deep Learning · NLP · LLM Fine-tuning
-```
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ED8B00)
+
+**Frameworks & Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Maven](https://img.shields.io/badge/Maven-0d0d0d?style=flat-square&logo=apachemaven&logoColor=C71A36)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=white)
+
+**AI / Automation**
+
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0d0d0d?style=flat-square&logo=google&logoColor=4285F4)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d0d?style=flat-square&logo=fastapi&logoColor=009688)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d0d0d?style=flat-square&logo=openai&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0d0d0d?style=flat-square&logo=windows&logoColor=0078D6)
 
 ---
 
-## GitHub
+## Projects
+
+> These represent real systems — not tutorials or course assignments.
+
+---
+
+### 🤖 Friday — Personal AI Assistant
+`Python` `Gemini API` `Modular Architecture` `Voice Interface`
+
+A production-structured AI voice assistant inspired by Jarvis. Built across ~30 independent modules covering:
+- **System control** — OS-level automation, process management
+- **Integrations** — Gmail, Google Calendar, real-time web search
+- **Intelligence layer** — vision capabilities, context-aware responses, habit tracking
+- **Design** — each module is independently replaceable; core is API-agnostic
+
+This isn't a chatbot wrapper. It's a multi-domain agent with a proper separation of concerns.
+
+---
+
+### ⚙️ Workflow Automation Engine
+`Python` `API Integration` `Event-Driven Design`
+
+A modular automation system for chaining tasks across tools — file ops, API calls, notifications, and scheduled jobs — through a unified pipeline. Built to eliminate repetitive manual workflows.
+
+---
+
+### 🌐 Sales Data Analysis System
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+End-to-end data analysis pipeline for sales datasets — ingestion, cleaning, transformation, and multi-format visualization output. Designed as a 10-step modular workflow with a documented system architecture.
+
+---
+
+### 🔧 C++ DSA Implementations
+`C++` `Algorithms` `Data Structures`
+
+Clean implementations of core data structures and algorithms — trees, graphs, sorting, dynamic programming — written for correctness and clarity, not just submission.
+
+---
+
+### 🐍 Python Utility Toolkit
+`Python` `Automation` `CLI`
+
+A growing collection of standalone Python scripts for practical tasks: bulk file operations, API wrappers, data formatters, and automation helpers. Each tool solves one specific problem well.
+
+---
+
+## What I'm Currently Building Toward
+▸ Data Structures & Algorithms        — systematic problem-solving foundation
+▸ Backend Engineering                 — REST APIs, databases, server architecture
+▸ AI Systems Design                   — agents, RAG pipelines, tool-use patterns
+▸ Workflow & Process Automation       — event-driven systems, scheduled pipelines
+▸ Open Source Contribution            — reading real codebases, understanding scale
+▸ System Design Fundamentals          — load, consistency, distributed thinking
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sudirgm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudirgm&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sudirgm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-[![Streak](https://streak-stats.demolab.com?user=sudirgm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Streak](https://streak-stats.demolab.com?user=sudirgm&theme=github-dark-blue&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudirgm&layout=compact&theme=github_dark&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudirgm&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Views](https://komarev.com/ghpvc/?username=sudirgm&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-## Open To
+## Highlights
 
-- Collaborating on AI / automation projects
-- Hackathon teams with real ambition
-- Mentorship from engineers working in AI or backend systems
-- Conversations about things worth building
+- Participated in university and online hackathons — focused on AI-based problem statements and rapid prototyping under time constraints
+- Built **Friday** as a real engineering exercise: modular design, clean interfaces between components, and incremental feature expansion
+- Actively studying how large systems are architected — not just how individual tools work
+- Comfortable working across the stack early — from Python scripts to Spring Boot backends to Gemini API integrations
+- Consistent GitHub activity: every project has version history, not just a final upload
+
+---
+
+## Connect
+
+I'm open to technical discussions, project collaborations, and learning from engineers further along the path.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/viswasudir@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:viswasudir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sudirbaskar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=100&section=footer&animation=fadeIn)
 
 </div>
