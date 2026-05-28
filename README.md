@@ -110,18 +110,15 @@ A growing collection of standalone Python scripts for practical tasks: bulk file
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sudirgm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudirgm&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=sudirgm&theme=github-dark-blue&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudirgm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudirgm&theme=github_dark)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudirgm&layout=compact&theme=github_dark&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudirgm&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Views](https://komarev.com/ghpvc/?username=sudirgm&color=58a6ff&style=flat-square&label=profile+views)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudirgm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudirgm&theme=github_dark&utcOffset=5.5)
 
 </div>
-
 ---
 
 ## Highlights
